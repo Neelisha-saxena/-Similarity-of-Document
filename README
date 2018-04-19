@@ -1,0 +1,5 @@
+Document Similarity
+Finding cosine similarity is a basic technique in text mining.
+Measure of similarity can be qualitative and/or quantitative. In qualitative, the assessment is done against subjective criteria such as theme, sentiment, overall meaning, etc. In the quantitative, numerical parameters such as length of the document, number of keywords, common words, etc. are compared.
+In this Program I have implemented Cosine Similarity.
+
